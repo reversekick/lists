@@ -24,11 +24,11 @@ python rest.py
 ###TEST(GET)
 
 ###BY USER
-To get data of particular user
+To get data of particular user <br>
 http://localhost:8080/task/siddiq
 
 ###ALL USERS
-This will give all infomation
+This will give all infomation <br >
 http://localhost:8080/all
 
 ###TEST(POST)
